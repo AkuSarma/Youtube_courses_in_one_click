@@ -11,9 +11,9 @@
 
 ![Preview](image/Mainpage.png)
 #### Maths chapter:
-![Preview](image/maths.png)
+![Preview](image/Maths.png)
 #### Physics chapter:
-![Preview](image/physics.png)
+![Preview](image/Physics.png)
 #### Chemistry chapter:
-![Preview](image/chemistry.png)
+![Preview](image/Chemistry.png)
 
