@@ -8,6 +8,7 @@
 * [Physics Walla - Alakh Pandey](https://www.youtube.com/channel/UCiGyWN6DEbnj2alu7iapuKQ)
 * [Unacademy JEE](https://www.youtube.com/user/canvasclasses)
 * [Vedantu JEE](https://www.youtube.com/user/VedantuInnovations)
+* Physics Galaxy- [Youtube Channel](https://www.youtube.com/c/physicsgalaxy74),[Website](https://www.physicsgalaxy.com/home)
 
 ![Preview](image/Mainpage.png)
 #### Maths chapter:
