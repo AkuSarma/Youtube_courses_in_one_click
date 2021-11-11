@@ -1,0 +1,59 @@
+{
+  "classXI": {
+    "chemistry" : {},
+    "physics" : {},
+    "maths" : {}
+  },
+
+  "classXII": {
+    "chemistry": {
+      "The solid state": "https://www.youtube.com/watch?v=a5WfQ7mSLBI&list=PLbu_fGT0MPsuJoldXfEROqx5oRXwQcaa5",
+      "Solutions": "https://www.youtube.com/watch?v=nn-1UU_1PX8&list=PLF_7kfnwLFCHJ6kUboe60izCndyBUjiaZ",
+      "Electrochemistry": "https://www.youtube.com/watch?v=j7PYqR1iGMg&list=PLF_7kfnwLFCF_VxKKAhHSLryCsJr3GW71",
+      "Chemical kinetics": "https://www.youtube.com/watch?v=Ez2EaGNt-u8&list=PLF_7kfnwLFCHlh8wdeQ_ZZ96DhBDjqGMZ",
+      "Surface chemistry": "https://www.youtube.com/watch?v=Ez2EaGNt-u8&list=PLF_7kfnwLFCHlh8wdeQ_ZZ96DhBDjqGMZ",
+      "General principles and processes of isolation of elements": "https://www.youtube.com/watch?v=juCvs-BNLbA&list=PLzSTglXGeoUsvwbg9f573_-GoNGe0eUJN",
+      "the p-block elements": "https://www.youtube.com/watch?v=wqHutdLBSCE&list=PLF_7kfnwLFCHzLy322Z87d5OBPNztukFs",
+      "the d-block and f-block elements": "https://www.youtube.com/watch?v=nvAapFc_WgE&list=PLzSTglXGeoUvoWhQmJEV6-ScGn4tBTz2D",
+      "coordination compounds": "https://www.youtube.com/watch?v=NDn_gZL2LTs&list=PLF_7kfnwLFCFVII1I1paHKCtq5VhlmAaC",
+      "Haloalkanes and haloarenes": "https://www.youtube.com/watch?v=8OoPwXO110w&list=PLF_7kfnwLFCG-Fm0odaUEQjDTEHdyP3PP",
+      "Alcohols, phenols and ether": "https://www.youtube.com/watch?v=IviTZ45FrJY&list=PLF_7kfnwLFCEllUy1_z114tXRmq7UQJlj",
+      "Aldehydes, ketones and carboxylic acids": "https://www.youtube.com/watch?v=gKp1aM42VvI&list=PLF_7kfnwLFCHUtZnRiUbHrS5WSV0BsvSg",
+      "Amines": "https://www.youtube.com/watch?v=SNoWfjyuwx8&list=PLbu_fGT0MPsvrWJD4Bz6fPIdqneiEyWIZ",
+      "Biomolecules": "https://www.youtube.com/watch?v=moxsyv4WgRo&list=PLzSTglXGeoUtIcpKDCiw-N99IE7_SXdbQ",
+      "Polymers": "https://www.youtube.com/watch?v=wL3s_Or2zhY&list=PLzSTglXGeoUuhXb4czCE_0fA2tQPA1yEk",
+      "Chemistry in everyday life": "https://www.youtube.com/watch?v=oByTE_nXpEI"
+    },
+    "physics": {
+      "Electric charges and fields": "https://www.youtube.com/watch?v=m5VbK66a254&list=PLF_7kfnwLFCHjzvhflQjAOG97MgutH3Z5",
+      "Electrostatic potential and capatance": "https://www.youtube.com/watch?v=KV5HL1AgLeY&list=PLF_7kfnwLFCFxjSU9HKYiq2K2cxbpf6mz",
+      "Current electricity": "https://www.youtube.com/watch?v=IdAji34f7TE&list=PLF_7kfnwLFCFZ4OVmzjBSqMIAzDK_6b8f",
+      "Moving charges and magnetism": "https://www.youtube.com/watch?v=pJtE71ox6UA&list=PLF_7kfnwLFCF8sjVSdxn3yWAghIgVnw26",
+      "Magnetism and matter": "https://www.youtube.com/watch?v=zQwBW0HqEQA&list=PLF_7kfnwLFCGrBjDfBug1q5U3vULrIAOR",
+      "Electromagnetic induction": "https://www.youtube.com/watch?v=svd52GIjvDU&list=PLF_7kfnwLFCE6mi_so22MJJ988uaHBJaQ",
+      "Alternating current": "https://www.youtube.com/watch?v=0X2ZRsOqBms&list=PLF_7kfnwLFCELMB-TfYgbfAN2nuP-z4t5",
+      "Electromagnetic waves": "https://www.youtube.com/watch?v=K9Fa4UW704g&list=PLF_7kfnwLFCEmTm6t7akZcPRExU6wuVAU",
+      "Ray optics and optical instruments": "https://www.youtube.com/watch?v=_nGZGo4gHGo&list=PLF_7kfnwLFCFxb0yvMYbPqzvZn2GN5aMw",
+      "Wave optics": "https://www.youtube.com/watch?v=6vOzZ8esTSs&list=PLF_7kfnwLFCHr4eZATw4YURnGNr6mwF5R",
+      "Dual nature of radiation and matter": "https://www.youtube.com/watch?v=2JYSVsXV3Ac&list=PLF_7kfnwLFCHG4i2ZBF25z4rKNMdn36dt",
+      "Atoms": "https://www.youtube.com/watch?v=w1gxYuOihJ4&list=PLWx_9IrHkqauXxxrFQktuQFLZUBHSsw7s",
+      "Nuclei": "https://www.youtube.com/watch?v=kyYFsXp4kcQ&list=PLF_7kfnwLFCH5Okd6hTPRfzc7sqIeG7Jc",
+      "Semiconductor electronics: Materials, devices and simple circuits": "https://www.youtube.com/watch?v=tFzuhoElDi4&list=PLbu_fGT0MPstO4NmoeEBTNkYRZ0kPYFIV"
+    },
+    "maths": {
+      "Relations and functions": "https://www.youtube.com/watch?v=LIisbCyqdlE&list=PLbu_fGT0MPsulk5jpAkbkoyB5zh3g5Rzg",
+      "Inverse trigonometry functions": "https://www.youtube.com/watch?v=RO-PG4yeayk&list=PLbu_fGT0MPsuebu593XpIwrspIMZG8EkO",
+      "Matrices": "https://www.youtube.com/watch?v=bjFbZBER7Ew&list=PLbu_fGT0MPsssTQnaPbHz2Fzr3oye3aYd",
+      "Determinants": "https://www.youtube.com/watch?v=bjFbZBER7Ew&list=PLbu_fGT0MPsssTQnaPbHz2Fzr3oye3aYd",
+      "Continuity and differentiability": "https://www.youtube.com/watch?v=ok9f8Cm4-Ak&list=PLqjFFrfKcY5ymLMzicO4Gr0I_X-8uUd7x",
+      "Application and derivatives": "https://www.youtube.com/watch?v=dIKDrWOXUGk&list=PLbu_fGT0MPstnfHLA7GaGxwJ6N1xtfAEA",
+      "Integrals": "https://www.youtube.com/watch?v=i5hUQVwtock&list=PLbu_fGT0MPstBzAW5gGWLltksM_yAs3si",
+      "Application of Integrals": "https://www.youtube.com/watch?v=AO5xftAnGys",
+      "Differential equations": "https://www.youtube.com/watch?v=4PEb9O51fkg&list=PLbu_fGT0MPst47LS0wEIKZWxmHtWSUGYu",
+      "vector algebra": "https://www.youtube.com/watch?v=jCQGiduTd78&list=PLbu_fGT0MPssNwsoy1gWwbQAsQM92o5__",
+      "Three dimensional geometry": "https://www.youtube.com/watch?v=c3lU74jZYkg&list=PLbu_fGT0MPssMBwaqs27eW6mmKTRx9FE3",
+      "Linear programming": "https://www.youtube.com/watch?v=SahH5zZFasg",
+      "Probability": "https://www.youtube.com/watch?v=YwdFvjqmBRM"
+    }
+  }
+}
