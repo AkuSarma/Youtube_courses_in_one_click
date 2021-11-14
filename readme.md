@@ -1,19 +1,6 @@
 # Youtube Online courses in one click
 
-<p>For now it shows links of only three subjects of class 12.</p>
-<p>It can be used as a shortcut while studying(cbse/jee/neet).</p>
-<p>It redirects you to the different playlist and videos of different youtube channels such as:</p>
+<p>It is basically a shortcut for youtube lectures of class 11 and 12 however chapters are not added yet and any one can use it as a bookmark to save there favorite lectures link for any chapters</p>
 
-
-* [Physics Walla - Alakh Pandey](https://www.youtube.com/channel/UCiGyWN6DEbnj2alu7iapuKQ)
-* [Unacademy JEE](https://www.youtube.com/user/canvasclasses)
-* [Vedantu JEE](https://www.youtube.com/user/VedantuInnovations)
-
-![Preview](image/Mainpage.png)
-#### Maths chapter:
-![Preview](image/Maths.png)
-#### Physics chapter:
-![Preview](image/Physics.png)
-#### Chemistry chapter:
-![Preview](image/Chemistry.png)
-
+## contribution 
+<p>Everyone is welcomed to contribute to make it better and solve any issues or add a new issue if you find any bug or add more subjects or even classes</p>
